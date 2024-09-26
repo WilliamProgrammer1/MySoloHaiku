@@ -1,1 +1,2 @@
 Programming is fun
+I love to use command line
